@@ -140,19 +140,19 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/miaowumiaomiaowu/Financial-Real-Time-Stream-Processing-Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaowumiaomiaowu&repo=Financial-Real-Time-Stream-Processing-Pipeline&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaowumiaomiaowu&repo=Financial-Real-Time-Stream-Processing-Pipeline&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/miaowumiaomiaowu/cuddle_cat-AI-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaowumiaomiaowu&repo=cuddle_cat-AI-app&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaowumiaomiaowu&repo=cuddle_cat-AI-app&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/miaowumiaomiaowu/leetcode-counter-extention">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaowumiaomiaowu&repo=leetcode-counter-extention&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaowumiaomiaowu&repo=leetcode-counter-extention&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/miaowumiaomiaowu/healthplatform_electron">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaowumiaomiaowu&repo=healthplatform_electron&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miaowumiaomiaowu&repo=healthplatform_electron&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
 </div>
 
